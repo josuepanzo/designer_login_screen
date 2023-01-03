@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\bin\Debug\Splash_login.exe.config
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\bin\Debug\Splash_login.exe
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\bin\Debug\Splash_login.pdb
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.Form1.resources
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.Properties.Resources.resources
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.exe
+C:\Users\Joshua\Documents\RepositoryDesktop\splash_login\Splash_login\Splash_login\obj\Debug\Splash_login.pdb
